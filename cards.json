@@ -136,5 +136,6 @@
   {"id":135,"pinyin":"zài jiàn","characters":"再见","type":"expr","meaning":"goodbye"},
   {"id":136,"pinyin":"zǎo","characters":"早","type":"adj","meaning":"early / morning"},
   {"id":137,"pinyin":"zǎoshang","characters":"早上","type":"noun","meaning":"early morning"},
-  {"id":138,"pinyin":"zǎoshang hǎo","characters":"早上好","type":"expr","meaning":"good morning"}
+  {"id":138,"pinyin":"zǎoshang hǎo","characters":"早上好","type":"expr","meaning":"good morning"},
+  {"id":139,"pinyin":"zuìjìn","characters":"最近","type":"adv","meaning":"recently"}
 ]
