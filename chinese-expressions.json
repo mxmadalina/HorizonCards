@@ -1,1 +1,11 @@
-
+[
+{"id":1,"pinyin":"zěnme qù","characters":"怎么去","type":"phrase","meaning":"how to get there / how to go"},
+{"id":2,"pinyin":"zěnme zǒu","characters":"怎么走","type":"phrase","meaning":"how to go / which way to go"},
+{"id":3,"pinyin":"jiùshì","characters":"就是","type":"adv","meaning":"exactly / precisely / it is / indeed"},
+{"id":4,"pinyin":"duō jiǔ le","characters":"多久了","type":"phrase","meaning":"how long (has it been) / how long has it been happening"},
+{"id":5,"pinyin":"bù kèqi","characters":"不客气","type":"phrase","meaning":"you're welcome / don't mention it"},
+{"id":6,"pinyin":"qǐng wèn","characters":"请问","type":"phrase","meaning":"excuse me (may I ask…)"},
+{"id":7,"pinyin":"hǎo jiǔ bú jiàn","characters":"好久不见","type":"phrase","meaning":"long time no see"},
+{"id":8,"pinyin":"duō jiǔ","characters":"多久","type":"phrase","meaning":"how long"},
+{"id":9,"pinyin":"jǐ diǎn","characters":"几点","type":"phrase","meaning":"what time"},
+]
