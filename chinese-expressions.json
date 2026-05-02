@@ -7,5 +7,15 @@
 {"id":6,"pinyin":"qǐng wèn","characters":"请问","type":"phrase","meaning":"excuse me (may I ask…)"},
 {"id":7,"pinyin":"hǎo jiǔ bú jiàn","characters":"好久不见","type":"phrase","meaning":"long time no see"},
 {"id":8,"pinyin":"duō jiǔ","characters":"多久","type":"phrase","meaning":"how long"},
-{"id":9,"pinyin":"jǐ diǎn","characters":"几点","type":"phrase","meaning":"what time"}
+{"id":9,"pinyin":"jǐ diǎn","characters":"几点","type":"phrase","meaning":"what time"},
+{"id":10,"pinyin":"jiù yí gè rén","characters":"就一个人","type":"phrase","meaning":"just one person"},
+{"id":11,"pinyin":"jiù zài nàr","characters":"就在那儿","type":"phrase","meaning":"right there"},
+{"id":12,"pinyin":"wǎng zuǒ zhuǎn","characters":"往左转","type":"phrase","meaning":"turn left"},
+{"id":13,"pinyin":"wǎng yòu zhuǎn","characters":"往右转","type":"phrase","meaning":"turn right"},
+{"id":14,"pinyin":"wǎng nán zhuǎn","characters":"往南转","type":"phrase","meaning":"turn south"},
+{"id":15,"pinyin":"wǎng qián zǒu","characters":"往前走","type":"phrase","meaning":"go towards the front"},
+{"id":16,"pinyin":"wǎng hòu zǒu","characters":"往后走","type":"phrase","meaning":"go towards the back"},
+{"id":17,"pinyin":"zuò chē","characters":"坐车","type":"phrase","meaning":"by car"},
+{"id":18,"pinyin":"zuò qìchē","characters":"坐汽车","type":"phrase","meaning":"by bus"},
+{"id":19,"pinyin":"yì zhí zǒu","characters":"一直走","type":"phrase","meaning":"go straight ahead"}
 ]
