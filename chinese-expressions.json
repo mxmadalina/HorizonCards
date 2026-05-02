@@ -25,5 +25,6 @@
 {"id":24,"pinyin":"yí gè rén","characters":"一个人","type":"phrase","meaning":"by oneself / alone"},
 {"id":25,"pinyin":"yí huìr","characters":"一会儿","type":"noun","meaning":"a while / a moment"},
 {"id":26,"pinyin":"zuò yí huìr","characters":"坐一会儿","type":"phrase","meaning":"sit for a while"},
-{"id":27,"pinyin":"shí diǎn le","characters":"十点了","type":"phrase","meaning":"it is already 10 o'clock"}
+{"id":27,"pinyin":"shí diǎn le","characters":"十点了","type":"phrase","meaning":"it is already 10 o'clock"},
+{"id":28,"pinyin":"zǒu le","characters":"走了","type":"phrase","meaning":"I'm leaving / leaving now"}
 ]
