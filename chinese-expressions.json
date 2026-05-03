@@ -27,5 +27,6 @@
 {"id":26,"pinyin":"zuò yí huìr","characters":"坐一会儿","type":"phrase","meaning":"sit for a while"},
 {"id":27,"pinyin":"shí diǎn le","characters":"十点了","type":"phrase","meaning":"it is already 10 o'clock"},
 {"id":28,"pinyin":"zǒu le","characters":"走了","type":"phrase","meaning":"I'm leaving / leaving now"},
-{"id":29,"pinyin":"zhōu liù jiàn","characters":"周六见","type":"phrase","meaning":"see you saturday"}
+{"id":29,"pinyin":"zhōu liù jiàn","characters":"周六见","type":"phrase","meaning":"see you saturday"},
+{"id":30,"pinyin":"duōhǎo","characters":"","type":"phrase","meaning":"how nice!"},
 ]
