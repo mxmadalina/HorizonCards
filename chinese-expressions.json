@@ -29,4 +29,8 @@
 {"id":28,"pinyin":"zǒu le","characters":"走了","type":"phrase","meaning":"I'm leaving / leaving now"},
 {"id":29,"pinyin":"zhōu liù jiàn","characters":"周六见","type":"phrase","meaning":"see you saturday"},
 {"id":30,"pinyin":"duōhǎo","characters":"","type":"phrase","meaning":"how nice!"},
+{"id":103,"pinyin":"nǐ lái ma","characters":"你来吗","type":"expr","meaning":"are you coming"},
+{"id":132,"pinyin":"nǐ qù nǎr","characters":"你去哪儿","type":"expr","meaning":"where are you going"},
+{"id":133,"pinyin":"rènshi nǐ hěn gāoxìng","characters":"认识你很高兴","type":"expr","meaning":"nice to meet you"},
+{"id":135,"pinyin":"nǐ shēntǐ hǎo ma","characters":"你身体好吗","type":"expr","meaning":"how is your health"},
 ]
