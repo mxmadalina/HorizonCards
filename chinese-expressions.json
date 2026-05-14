@@ -34,4 +34,11 @@
 {"id":33,"pinyin":"rènshi nǐ hěn gāoxìng","characters":"认识你很高兴","type":"expr","meaning":"nice to meet you"},
 {"id":34,"pinyin":"nǐ shēntǐ hǎo ma","characters":"你身体好吗","type":"expr","meaning":"how is your health"},
 {"id":35,"pinyin":"qìng jìn","characters":"请进","type":"expr","meaning":"please come in"},
+{"id":36,"pinyin":"zhè shì wǒ gēge","characters":"这是我哥哥","type":"expr","meaning":"this is my brother"},
+{"id":37,"pinyin":"nǐ zài nǎlǐ","characters":"你在哪里","type":"expr","meaning":"where are you"},
+{"id":38,"pinyin":"wǒ lái","characters":"我来","type":"expr","meaning":"I’m coming"},
+{"id":39,"pinyin":"nǐ jiào shénme míngzi","characters":"你叫什么名字","type":"expr","meaning":"what’s your name"},
+{"id":40,"pinyin":"huí jiā","characters":"回家","type":"expr","meaning":"go back home"},
+{"id":41,"pinyin":"zěnme yàng","characters":"怎么样","type":"pron","meaning":"how about / how is"},
+{"id":42,"pinyin":"jǐ diǎn","characters":"几点","type":"expr","meaning":"what time"},
 ]
