@@ -41,4 +41,9 @@
 {"id":40,"pinyin":"huí jiā","characters":"回家","type":"expr","meaning":"go back home"},
 {"id":41,"pinyin":"zěnme yàng","characters":"怎么样","type":"pron","meaning":"how about / how is"},
 {"id":42,"pinyin":"jǐ diǎn","characters":"几点","type":"expr","meaning":"what time"},
+{"id":43,"pinyin":"tiān hēi le","characters":"天黑了","type":"phrase","meaning":"it's getting dark"},
+{"id":44,"pinyin":"wǒ hǎo le","characters":"我好了","type":"phrase","meaning":"i'm done / i'm ready"},
+{"id":45,"pinyin":"zhōngjiān","characters":"中间","type":"noun","meaning":"middle / in the middle"},
+{"id":46,"pinyin":"èr diǎn wǔ yuán","characters":"二点五元","type":"noun","meaning":"2.5 yuan"},
+
 ]
