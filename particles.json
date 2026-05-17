@@ -1,6 +1,6 @@
 [
   {"id":1,"pinyin":"qù + verb","characters":"去","type":"particle","meaning":"going to do smth"},
-  {"id":2,"pinyin":"tài + adj + le","characters":"","type":"phrase","meaning":"very"},
-  {"id":3,"pinyin":"zài+ verb","characters":"","type":"particle","meaning":"ongoing action"},
-  {"id":4,"pinyin":"ba?","characters":"","type":"particle","meaning":"suggestion question"},
+  {"id":2,"pinyin":"tài + adj + le","characters":"太…了","type":"phrase","meaning":"too / very"},
+  {"id":3,"pinyin":"zài + verb","characters":"在","type":"particle","meaning":"ongoing action"},
+  {"id":4,"pinyin":"ba","characters":"吧","type":"particle","meaning":"suggestion question"},
 ]
