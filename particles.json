@@ -3,4 +3,6 @@
   {"id":2,"pinyin":"tài + adj + le","characters":"太…了","type":"phrase","meaning":"too / very"},
   {"id":3,"pinyin":"zài + verb","characters":"在","type":"particle","meaning":"ongoing action"},
   {"id":4,"pinyin":"ba","characters":"吧","type":"particle","meaning":"suggestion question"},
+  {"id":5,"pinyin":"de","characters":"的","type":"particle","meaning":"possessive / descriptive particle"},
+  {"id":6,"pinyin":"le","characters":"了","type":"particle","meaning":"completed action / change of state / emphasis"},
 ]
