@@ -45,5 +45,10 @@
 {"id":44,"pinyin":"wǒ hǎo le","characters":"我好了","type":"phrase","meaning":"i'm done / i'm ready"},
 {"id":45,"pinyin":"zhōngjiān","characters":"中间","type":"noun","meaning":"middle / in the middle"},
 {"id":46,"pinyin":"èr diǎn wǔ yuán","characters":"二点五元","type":"noun","meaning":"2.5 yuan"},
+{"id":47,"pinyin":"tài guì le","characters":"太贵了","type":"phrase","meaning":"too expensive"},
+{"id":48,"pinyin":"piányi yì diǎn","characters":"便宜一点","type":"phrase","meaning":"make it cheaper / a little cheaper"},
+{"id":49,"pinyin":"hái mǎi bié de ma","characters":"还买别的吗","type":"phrase","meaning":"what else do you want to buy"},
+{"id":50,"pinyin":"nà zhǒng","characters":"那种","type":"pronoun","meaning":"that kind"},
+{"id":51,"pinyin":"zhè zhǒng","characters":"这种","type":"pronoun","meaning":"this kind"},
 
 ]
