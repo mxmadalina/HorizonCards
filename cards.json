@@ -238,4 +238,6 @@
 {"id":267,"pinyin":"tīng","characters":"听","type":"verb","meaning":"to listen"},
 {"id":268,"pinyin":"dǒng","characters":"懂","type":"verb","meaning":"to understand"},
 {"id":269,"pinyin":"huàn","characters":"换","type":"verb","meaning":"to change / exchange"},
+{"id":270,"pinyin":"shénme shíhou","characters":"什么时候","type":"pron","meaning":"when"},
+
 ]
