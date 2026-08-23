@@ -240,5 +240,7 @@
 {"id":270,"pinyin":"shénme shíhou","characters":"什么时候","type":"pron","meaning":"when"},
 {"id":271,"pinyin":"zhōumò","characters":"周末","type":"noun","meaning":"weekend"},
 {"id":272,"pinyin":"píng","characters":"瓶","type":"noun","meaning":"bottle"},
+{"id":273,"pinyin":"yàng","characters":"样","type":"noun","meaning":"appearance / kind / manner"},
+{"id":274,"pinyin":"xiāngjiāo","characters":"香蕉","type":"noun","meaning":"banana"}
 
 ]
