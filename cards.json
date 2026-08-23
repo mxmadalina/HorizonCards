@@ -238,8 +238,7 @@
 {"id":268,"pinyin":"dǒng","characters":"懂","type":"verb","meaning":"to understand"},
 {"id":269,"pinyin":"huàn","characters":"换","type":"verb","meaning":"to change / exchange"},
 {"id":270,"pinyin":"shénme shíhou","characters":"什么时候","type":"pron","meaning":"when"},
-{"id":271,"pinyin":"zhōumò","characters":"周末","type":"noun","meaning":"weekend"}
-{"id":272,"pinyin":"zěnmeyàng","characters":"怎么样","type":"pron","meaning":"how is it / how about"}
-{"id":273,"pinyin":"píng","characters":"瓶","type":"noun","meaning":"bottle"}
+{"id":271,"pinyin":"zhōumò","characters":"周末","type":"noun","meaning":"weekend"},
+{"id":272,"pinyin":"píng","characters":"瓶","type":"noun","meaning":"bottle"},
 
 ]
