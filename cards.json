@@ -241,6 +241,20 @@
 {"id":271,"pinyin":"zhōumò","characters":"周末","type":"noun","meaning":"weekend"},
 {"id":272,"pinyin":"píng","characters":"瓶","type":"noun","meaning":"bottle"},
 {"id":273,"pinyin":"yàng","characters":"样","type":"noun","meaning":"appearance / kind / manner"},
-{"id":274,"pinyin":"xiāngjiāo","characters":"香蕉","type":"noun","meaning":"banana"}
+{"id":274,"pinyin":"xiāngjiāo","characters":"香蕉","type":"noun","meaning":"banana"},
+{"id":275,"pinyin":"yígòng","characters":"一共","type":"adv","meaning":"altogether / in total"},
+{"id":276,"pinyin":"bēi","characters":"杯","type":"measure word","meaning":"cup / glass"},
+{"id":277,"pinyin":"chǎofàn","characters":"炒饭","type":"noun","meaning":"fried rice"},
+{"id":278,"pinyin":"xiǎobáicài","characters":"小白菜","type":"noun","meaning":"bok choy"},
+{"id":279,"pinyin":"yǔ","characters":"雨","type":"noun","meaning":"rain"},
+{"id":280,"pinyin":"shāo'é","characters":"烧鹅","type":"noun","meaning":"roast goose"},
+{"id":281,"pinyin":"shāokǎo","characters":"烧烤","type":"noun","meaning":"barbecue / BBQ"},
+{"id":282,"pinyin":"shāoyā","characters":"烧鸭","type":"noun","meaning":"roast duck"},
+{"id":283,"pinyin":"yí fèn","characters":"一份","type":"measure phrase","meaning":"one portion"},
+{"id":284,"pinyin":"jīròu","characters":"鸡肉","type":"noun","meaning":"chicken meat"},
+{"id":285,"pinyin":"miàntiáo","characters":"面条","type":"noun","meaning":"noodles"},
+{"id":286,"pinyin":"yì píng","characters":"一瓶","type":"measure phrase","meaning":"one bottle"},
+{"id":287,"pinyin":"piàoliang","characters":"漂亮","type":"adj","meaning":"beautiful / pretty"},
+{"id":288,"pinyin":"yīfu","characters":"衣服","type":"noun","meaning":"clothes"},
 
 ]
