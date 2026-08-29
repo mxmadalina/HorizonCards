@@ -51,4 +51,7 @@
 {"id":50,"pinyin":"nà zhǒng","characters":"那种","type":"pronoun","meaning":"that kind"},
 {"id":51,"pinyin":"zhè zhǒng","characters":"这种","type":"pronoun","meaning":"this kind"},
 {"id":52,"pinyin":"hěn duō","characters":"","type":"adverb","meaning":"a lot (of)"},
+{"id":53,"pinyin":"duōshao qián","characters":"多少钱","type":"question phrase","meaning":"how much money / how much does it cost"},
+{"id":54,"pinyin":"yì bēi kāfēi","characters":"一杯咖啡","type":"noun phrase","meaning":"a cup of coffee"},
+
 ]
