@@ -53,5 +53,9 @@
 {"id":52,"pinyin":"hěn duō","characters":"","type":"adverb","meaning":"a lot (of)"},
 {"id":53,"pinyin":"duōshao qián","characters":"多少钱","type":"question phrase","meaning":"how much money / how much does it cost"},
 {"id":54,"pinyin":"yì bēi kāfēi","characters":"一杯咖啡","type":"noun phrase","meaning":"a cup of coffee"},
+{"id":55,"pinyin":"yǔ xià de hěn dà","characters":"雨下得很大","type":"sentence","meaning":"it's raining a lot"},
+{"id":56,"pinyin":"yángguāng hěn chōngzú","characters":"阳光很充足","type":"sentence","meaning":"it's very sunny"},
+{"id":57,"pinyin":"tiānqì duōyún","characters":"天气多云","type":"sentence","meaning":"it's cloudy"},
+{"id":58,"pinyin":"guā fēng le","characters":"刮风了","type":"sentence","meaning":"it's windy"},
 
 ]
